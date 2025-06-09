@@ -11,7 +11,7 @@ const TestimonialSection = () => {
   const scrollLeft = () => {
     if (jobsRef.current) {
       jobsRef.current.scrollBy({
-        left: -320,
+        left: -300,
         behavior: "smooth",
       });
     }
@@ -20,7 +20,7 @@ const TestimonialSection = () => {
   const scrollRight = () => {
     if (jobsRef.current) {
       jobsRef.current.scrollBy({
-        left: 320,
+        left: 300,
         behavior: "smooth",
       });
     }
