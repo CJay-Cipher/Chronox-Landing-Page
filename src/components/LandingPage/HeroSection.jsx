@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "../../assets/images/heroFitnessImage.jpg";
+import heroImage from "../../assets/images/heroSideImage.jpg";
 import PersonIcon from "../../assets/icons/PersonIcon.svg";
 import GroupIcon from "../../assets/icons/GroupIcon.svg";
 import DownloadIcon from "../../assets/icons/DownloadIcon.svg";
